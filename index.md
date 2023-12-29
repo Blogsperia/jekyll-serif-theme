@@ -10,4 +10,4 @@ show_call_box: true
 
 # Letters to Palak
 
-Letters From the Soul for the One Who Holds My Heart
+Letters From the Soul for the One Who Holds My Heart.
